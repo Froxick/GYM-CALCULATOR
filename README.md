@@ -1,16 +1,18 @@
-# flutter_new_progress_tracker
+# GYM CALCULATOR APP
 
-A new Flutter project.
+Приложения для силовых тренировок
 
-## Getting Started
+## Функционал
 
-This project is a starting point for a Flutter application.
+ - Расчёт 1ПМ (с учётом RIR)
+ - Проценты от 1ПМ
+ - Коэффициент силы
+ - Тренировочный гайд на RPE таблицу
 
-A few resources to get you started if this is your first Flutter project:
+## Стек
+ - Flutter
+ - Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Запуск
+flutter pub get
+flutter run 
